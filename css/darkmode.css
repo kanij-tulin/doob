@@ -1,0 +1,132 @@
+body.darkmode {
+	background: #222;
+}
+/* items-start */
+body.darkmode .items_1 h2 {
+	color: #fff;
+}
+/* items-end */
+
+/* bussiness-project-start */
+body.darkmode .bussiness_project h1 {
+	color: #fff;
+}
+/* bussiness-project-end */
+
+/* project-btn-button-start */
+body.darkmode .projects_btn button {
+	color: #fff;
+}
+body.darkmode .projects_btn {
+	color: #fff;
+}
+/* project-btn-button-end */
+
+/* project-image-start */
+body.darkmode .projects_img a  {
+	color: #fff;
+}
+/* project-image-end */
+
+/* working_main .items -start */
+body.darkmode #working_main .items h1{
+    color: #fff;
+}
+/* working_main .items -end */
+
+/* bussiness-project-start */
+body.darkmode .work_left h2{
+    color:#fff;
+}
+body.darkmode .work_left p{
+    color:#fff;
+}
+body.darkmode .para_01 h5{
+    color:#fff;
+}
+body.darkmode .para_01 p{
+    color:#fff;
+}
+body.darkmode .work_left h2{
+    color:#fff;
+}
+body.darkmode .work_left p{
+    color:#fff;
+}
+/* bussiness-project-end */
+
+/* .clients_feedback_items-start */
+body.darkmode .clients_feedback_items h1{
+    color: #fff;
+}
+body.darkmode .client_info span{
+    color:#fff;
+}
+body.darkmode .arrow_left.slick-arrow{
+    color:#fff;
+}
+body.darkmode .arrow_right.slick-arrow{
+    color:#fff;
+}
+/* .clients_feedback_items-end */
+
+/* ready_website-start */
+body.darkmode #ready_website .container{
+    background:black;
+ }
+/* ready_website-end */
+
+/* corprorate_main-start */
+body.darkmode .corprorate_main_services{
+    background: #000;
+}
+/* corprorate_main-end */
+/* Working Process -start */
+body.darkmode .items h2{
+    color: #fff;
+}
+/* Working Process -end */
+
+/* ready_website_main-start */
+body .darkmode .ready_website_main h1{
+    color:#ffff;
+}
+/* ready_website_main-end */
+
+
+/* #footter-start */
+body.darkmode #footter{
+    background:black;
+}
+body.darkmode  .new_seltter_item h4{
+    color:#fff;
+}
+body.darkmode .download_website {
+    color:#fff;
+}
+body.darkmode .service_ul_top_list h4 {
+    color:#fff;
+}
+body.darkmode .service_ul_top_list a{
+    color:#ffffff8f;
+}
+body.darkmode .service_ul_bottom_list h4 {
+    color:#fff;
+}
+body.darkmode .service_ul_bottom_list a{
+    color:#ffffff8f;
+}
+
+/* #footter-end */
+/* .copyright_footer_item-start */
+body.darkmode .copyright_footer_item_left p{
+    color:#fff;
+}
+body.darkmode .copyright_footer_item_right p{
+    color:#fff;
+}
+/* .copyright_footer_item-end */
+
+
+
+

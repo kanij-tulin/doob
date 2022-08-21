@@ -422,20 +422,20 @@ ol {
 
 .accordion-item {
 	border: none;
-	border-bottom: 1px solid;
-
+	border-bottom: 3px solid red;
 }
-
 .accordion-button:not(.collapsed) {
 	background: none;
 	box-shadow: none;
-}
+} 
 
 .accordion-button:focus {
 	border-color: none;
 	outline: 0;
 	box-shadow: none;
 }
+
+
 
 
 /* blog_items _dropdown-end*/

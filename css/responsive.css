@@ -23,9 +23,7 @@
 .logo {
     width: 154px;
 }
-.buy_btn a {
-    margin-left: 180px;
-}
+
 .btn_all {
     justify-content: end;
 }
@@ -230,11 +228,34 @@
 }
 /* copyright_fotter_item_left_end */
 }
+@media (max-width:575px){
 
+    .logo {
+        width: 100px;
+    }
+    .buy_btn a {
+        margin-left:0 !important;
+    }
+    .mode {
+        margin-right: 0;
+        margin-left: 9px;
+        width: 30px;
+        height: 30px;
+    }
+    .bars {
+        width: 30px;
+        height: 30px;
+    }
+    .buy_btn a {
+        padding: 4px 10px;
+      
+    }
+}
 @media(min-width:575px)and (max-width:576px){
     .col-lg-4.col-sm-6.my_filtter  {
         width: 50% !important;
     }
+    
 }
 @media(min-width:576px)and (max-width:766.98px){
    

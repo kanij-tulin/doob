@@ -533,8 +533,6 @@ position: relative;
 
 }
 
-.main_item {}
-
 .icon_00 {
 	width: 75px;
 	height: 75px;
@@ -1007,8 +1005,6 @@ position: relative;
 	font-family: Inter sans-serif;
 	color: #acacac;
 }
-
-.client_info {}
 
 .client_info span {
 	font-size: 18px;

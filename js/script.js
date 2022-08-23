@@ -1,5 +1,10 @@
+
+
+feather.replace()
+
 // raw javascript start
 const mode = document.querySelector(".mode");
+
 const body = document.querySelector("body");
 const mode_icon = document.querySelector(".mode_icon");
 let image=0;
@@ -36,13 +41,14 @@ window.addEventListener ("scroll",function(){
 })
 // sticky menu end
 
-feather.replace()
+
+
 $(function(){
-    $(".projects_btn button  ").click(function(){
-        $("button").removeClass("active"),
-        $(this ).addClass("active"),
-        
-    }) 
+  $(".projects_btn button  ").click(function(){
+    $("button").removeClass("active");
+    $(this ).addClass("active");
+    
+}) 
 
     $('.feedback_slider').slick({
        arrows:true,
@@ -53,25 +59,27 @@ $(function(){
 
       });
 
+      $('.responsive').slick({
+        dots: true,
+        infinite: false,
+        speed: 300,
+        slidesToShow: 4,
+        slidesToScroll: 4,
+        responsive: [
+          {
+            breakpoint: 575,
+            settings: {
+               arrows:false,
+               slidesToShow: 1,
+               slidesToScroll: 1
+            }
+          }
+        ]
+         
     })
-$('.responsive').slick({
-    dots: true,
-    infinite: false,
-    speed: 300,
-    slidesToShow: 4,
-    slidesToScroll: 4,
-    responsive: [
-      {
-        breakpoint: 575,
-        settings: {
-           arrows:false,
-           slidesToShow: 1,
-           slidesToScroll: 1
-        }
-      }
-    ]
-     
-})
+
+    })
+
 var mixer = mixitup('.protfolio_filtter');
 
 // video_js

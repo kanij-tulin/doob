@@ -41,7 +41,7 @@ $(function(){
     $(".projects_btn button  ").click(function(){
         $("button").removeClass("active"),
         $(this ).addClass("active"),
-        console.log("tulin") 
+        
     }) 
 
     $('.feedback_slider').slick({
